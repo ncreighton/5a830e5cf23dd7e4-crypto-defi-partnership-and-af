@@ -1,0 +1,2 @@
+# 5a830e5cf23dd7e4-crypto-defi-partnership-and-af
+Built for crypto defi professionals who are tired of spending hours building a system before you can actually use it.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Crypto Defi Partnership And Affiliate Management Platf
