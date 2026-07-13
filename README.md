@@ -1,2 +1,28 @@
-# 5a830e5cf23dd7e4-crypto-defi-partnership-and-af
-Built for crypto defi professionals who are tired of spending hours building a system before you can actually use it.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Crypto Defi Partnership And Affiliate Management Platf
+# Crypto Defi Partnership and Affiliate Management Platform
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14AdR99z90bW8FGavOcZK3P)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14AdR99z90bW8FGavOcZK3P)
+
